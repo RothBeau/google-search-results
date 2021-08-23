@@ -1,0 +1,1 @@
+The goal of this project is recreate this website from scratch. https://www.google.com/search?q=build+this+webpage
